@@ -1,9 +1,10 @@
 ## 🌱 I’m currently learning ...
 
-- <p>I live in Brazil. <img align="center" width="20px" src="https://image.flaticon.com/icons/png/512/206/206597.png"></p>
-- <p>21 years.
+🏡live in Brazil. ヾ(￣▽￣)
 
- <div>
+🏷 21 years.
+
+<div>
   <a href="https://github.com/ThiagoTatico">
   <img height="152px" src="https://github-readme-stats.vercel.app/api?username=ThiagoTatico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="152px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoTatico&layout=compact&langs_count=7&theme=tokyonight"/>
