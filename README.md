@@ -4,7 +4,7 @@
 
 🏷 21 years.
 
-Rádio: https://listen.moe
+Favorite radio: https://listen.moe
 
 <div>
   <a href="https://github.com/ThiagoTatico">
