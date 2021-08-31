@@ -4,6 +4,8 @@
 
 🏷 21 years.
 
+Rádio: https://listen.moe
+
 <div>
   <a href="https://github.com/ThiagoTatico">
   <img height="152px" src="https://github-readme-stats.vercel.app/api?username=ThiagoTatico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
