@@ -1,6 +1,6 @@
 ## 👾 I’m currently learning ...
 
-<img align="center" alt="Lain" src="https://media.discordapp.net/attachments/715643865838911501/886048945682395196/teste.jpg?width=1440&height=503">
+<img align="center" alt="Lain" src="">
 
 🏡live in Brazil. ヾ(￣▽￣)
 
