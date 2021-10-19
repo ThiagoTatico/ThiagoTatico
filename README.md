@@ -2,9 +2,9 @@
 
 <img align="center" alt="Lain" src="https://media.discordapp.net/attachments/358738488390320138/886409997939007518/Banner2.jpg?width=1440&height=503">
 
-🏡live in Brazil. ヾ(￣▽￣)
-
-🏷 21 years.
+🏡 I live in Brazil. ヾ(￣▽￣) <br>
+🏷 21 years. <br>
+🗺️ languages: Português, Espanõl and English (intermediary)
 
 Favorite radio: https://listen.moe
 
