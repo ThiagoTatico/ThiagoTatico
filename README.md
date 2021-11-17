@@ -6,7 +6,7 @@
 🗺️ languages: Português, Espanõl and English (intermediary) <br>
 Favorite radio: https://listen.moe
 
-Interested in learning Ruby <img align="center" alt="SqlLogo" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+<!-- Interested in learning Ruby <img align="center" alt="SqlLogo" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> -->
 
 <div>
   <a href="https://github.com/ThiagoTatico">
