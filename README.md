@@ -4,7 +4,8 @@
 🏡 I live in Brazil. ヾ(￣▽￣) <br>
 🏷 21 years. <br>
 🗺️ languages: Português, Espanõl and English (intermediary) <br>
-Favorite radio: https://listen.moe
+Favorite radio: https://listen.moe <br>
+Portfolio Page: https://thiagotatico.github.io/PortfolioPage/
 
 <!-- Interested in learning Ruby <img align="center" alt="SqlLogo" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> -->
 
