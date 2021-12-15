@@ -1,11 +1,11 @@
 ## 👾 I’m currently learning ...
 
 <img align="center" alt="Lain" src="https://media.discordapp.net/attachments/358738488390320138/886409997939007518/Banner2.jpg?width=1440&height=503">
-🏡 I live in Brazil. ヾ(￣▽￣) <br>
-🏷 21 years. <br>
-🗺️ languages: Português, Espanõl and English (intermediary) <br>
-Favorite radio: https://listen.moe <br>
-Portfolio Page: https://thiagotatico.github.io/PortfolioPage/
+<h3>🏡 I live in Brazil. ヾ(￣▽￣) </h3>
+<h3>🏷 21 years. </h3>
+<h3>🗺️ languages: Português, Espanõl and English (intermediary) </h3>
+<h3>Favorite radio: https://listen.moe </h3>
+<h3>Portfolio Page: https://thiagotatico.github.io/PortfolioPage/ </h3>
 
 <!-- Interested in learning Ruby <img align="center" alt="SqlLogo" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> -->
 
