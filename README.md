@@ -57,5 +57,3 @@
 </table>
 
 ![Snake animation](https://github.com/ThiagoTatico/ThiagoTatico/blob/output/github-contribution-grid-snake.svg)
-
-<img align="center" alt="Lain" src="https://i.imgur.com/VJEhRU2.jpg">
