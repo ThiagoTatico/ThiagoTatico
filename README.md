@@ -13,6 +13,7 @@
   <img align="center" alt="HtmlLogo" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Css3Logo" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="PythonLogo" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="EthereumLogo" height="70" width="70" src="https://i.imgur.com/5i8nHfs.png">
   <img align="center" alt="VsCodeLogo" height="55" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="SqlLogo" height="77" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
 </div>
