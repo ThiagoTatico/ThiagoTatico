@@ -58,3 +58,4 @@
 </table>
 
 ![Snake animation](https://github.com/ThiagoTatico/ThiagoTatico/blob/output/github-contribution-grid-snake.svg)
+
