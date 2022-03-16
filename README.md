@@ -58,4 +58,4 @@
 </table>
 
 ![Snake animation](https://github.com/ThiagoTatico/ThiagoTatico/blob/output/github-contribution-grid-snake.svg)
-
+<h3> “I know you can do it. You can get back on your feet! Just take everything one step at a time.” – Kaiji Itou </h3>
