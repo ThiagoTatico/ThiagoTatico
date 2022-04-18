@@ -9,13 +9,13 @@
 
 <div style="display: inline_block">
   <img align="center" alt="JavaScriptLogo" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TS logo" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Node JS logo" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="HtmlLogo" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Css3Logo" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="PythonLogo" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="EthereumLogo" height="70" width="70" src="https://i.imgur.com/5i8nHfs.png">
   <img align="center" alt="VsCodeLogo" height="55" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="SqlLogo" height="74" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="EthereumLogo" height="70" width="70" src="https://i.imgur.com/5i8nHfs.png">
 </div>
 <br>
 <div> 
