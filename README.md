@@ -1,4 +1,4 @@
-## 👾 I'm Currently Studying...
+## 👾 Studying TypeScript
 
 <img align="center" alt="Lain" src="https://media.discordapp.net/attachments/358738488390320138/886409997939007518/Banner2.jpg?width=1440&height=503">
 <h3>🏡 I live in Brazil. ヾ(￣▽￣) </h3>
