@@ -1,7 +1,6 @@
 ## 👾 Studying TypeScript
 
 <img align="center" alt="Lain" src="https://media.discordapp.net/attachments/358738488390320138/886409997939007518/Banner2.jpg?width=1440&height=503">
-<h3>🏡 I live in Brazil. ヾ(￣▽￣) </h3>
 <h3>🏷 22 years. </h3>
 <h3>🗺️ languages: Português, Espanõl and English (intermediary) </h3>
 <h3>Favorite radio: https://listen.moe </h3>
