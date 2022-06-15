@@ -4,7 +4,7 @@
 <h3>🏷 22 years. </h3>
 <h3>🗺️ languages: Português, Espanõl and English (intermediary) </h3>
 <h3>Favorite radio: https://listen.moe </h3>
-<h3>Portfolio Page: https://thiagotatico.github.io/PortfolioPage/ </h3>
+<h3>Portfolio Page: https://thiagotatico.github.io/PortfolioPage/ </h3
 
 <div style="display: inline_block">
   <img align="center" alt="JavaScriptLogo" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
