@@ -1,4 +1,4 @@
-## 👾 Studying TypeScript
+## 👾 Beginner in contributing to open-source projects 👾
 
 <img align="center" alt="Lain" src="https://media.discordapp.net/attachments/358738488390320138/886409997939007518/Banner2.jpg?width=1440&height=503">
 <h3>🏷 22 years. </h3>
