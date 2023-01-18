@@ -50,7 +50,7 @@
     </td>
     <td>
       <a href="https://thiagotatico.github.io/PortfolioPage/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoTatico&repo=ThiagoTatico&theme=github_dark&hide_border=true" alt="ThiagoTatico Language usage time">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoTatico&repo=NLW-Return-Impulse-Server&theme=github_dark&hide_border=true" alt="ThiagoTatico Language usage time">
       <a/>
     </td>
    </tr>
