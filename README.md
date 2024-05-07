@@ -1,7 +1,7 @@
 #### 👾 Currently, I am seeking my first opportunity as a Back-End developer with NodeJS to gain experience and improve my skills.👾
 
 <img align="center" alt="Lain" src="https://iili.io/JM8XUOv.jpg">
-<h3>🏷 23 years. </h3>
+<h3>🏷 24 years. </h3>
 <h3>🗺️ languages: Português, Espanõl and English (Advanced) </h3>
 <h3>Favorite radio: https://listen.moe </h3>
 <h3>Portfolio Page: https://thiagotatico.github.io/PortfolioPage/ </h3>
