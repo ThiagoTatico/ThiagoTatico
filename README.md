@@ -1,4 +1,4 @@
-#### 👾 Currently, I am seeking my first opportunity as a Back-End developer with NodeJS to gain experience and improve my skills.👾
+#### 👾 Currently, I am at Onfly ✈️ as a Junior Technical Support Analyst.👾
 
 <img align="center" alt="Lain" src="https://iili.io/JM8XUOv.jpg">
 <h3>🏷 24 years. </h3>
