@@ -1,4 +1,4 @@
-#### 👾 Currently, I am at Onfly ✈️ as a Junior Technical Support Analyst.👾
+#### 👾 Currently, I am at Onfly ✈️ as a Cyber Security Analyst Jr.👾
 
 <img align="center" alt="Lain" src="https://iili.io/JM8XUOv.jpg">
 <h3>🏷 24 years. </h3>
