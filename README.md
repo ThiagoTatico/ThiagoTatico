@@ -2,7 +2,7 @@
 
 <img align="center" alt="Lain" src="https://iili.io/JM8XUOv.jpg">
 <h3>🏷 24 years. </h3>
-<h3>🗺️ languages: Português, English and Espanõl (Advanced) </h3>
+<h3>🗺️ languages: Português, English and Espanõl </h3>
 <h3>Favorite radio: https://listen.moe </h3>
 <h3>Portfolio Page: https://thiagotatico.github.io/PortfolioPage/ </h3>
 
